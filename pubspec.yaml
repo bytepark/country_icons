@@ -5,7 +5,7 @@ author: Sebastian Faujour <sf@bytepark.de>
 homepage: https://github.com/bytepark/country_icons
 
 environment:
-  sdk: ">=2.0.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=0.1.4 <2.0.0"
 
 dependecies:
@@ -13,7 +13,7 @@ dependecies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_svg: ^0.14.1
+  flutter_svg: ^0.21.0+1
   flutter:
     sdk: flutter
   flutter_test:
