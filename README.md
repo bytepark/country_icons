@@ -6,10 +6,10 @@ A dart package with many country flag icons
 
 This package provides country icons as png and svg.
 
-###Icons as png
+### Icons as png
 You can use png icons via `new Image.asset('icons/flags/png/xx.png', package: 'country_icons');`
 
-###Icons as svg
+### Icons as svg
 You can use svg icons via `new Image.asset('icons/flags/svg/xx.svg', package: 'country_icons');`
 
 ## Credits
