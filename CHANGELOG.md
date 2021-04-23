@@ -1,3 +1,6 @@
+## [2.0.0] - 2021-04-23
+* Add nullsafety
+
 ## [1.1.1] - 2018-12-24
 * Update pubspec.yml
 
