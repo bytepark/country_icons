@@ -1,6 +1,6 @@
 name: country_icons
 description: A flutter package with many country flag icons that you can use via the Image.asset method
-version: 2.0.0
+version: 2.0.1
 homepage: https://github.com/bytepark/country_icons
 
 environment:
@@ -12,7 +12,7 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_svg: ^0.21.0+1
+  flutter_svg: ^0.22.0
   flutter:
     sdk: flutter
   flutter_test:

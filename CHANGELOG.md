@@ -1,3 +1,6 @@
+## [2.0.1] - 2021-04-23
+* Update example
+
 ## [2.0.0] - 2021-04-23
 * Add nullsafety
 
