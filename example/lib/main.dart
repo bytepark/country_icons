@@ -49,7 +49,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
-   return Scaffold(
+    return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
       ),
@@ -64,15 +64,13 @@ class _MyHomePageState extends State<MyHomePage> {
           Image.asset('icons/flags/png/fr.png', package: 'country_icons'),
           Image.asset('icons/flags/png/es.png', package: 'country_icons'),
           Image.asset('icons/flags/png/it.png', package: 'country_icons'),
-          Image.asset('icons/flags/png/eu.png', package: 'country_icons'),
-
+          Image.asset('icons/flags/png/wv.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/de.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/gb.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/fr.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/es.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/it.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/eu.png', package: 'country_icons'),
-
           SvgPicture.asset('icons/flags/svg/de.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/gb.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/fr.svg', package: 'country_icons'),

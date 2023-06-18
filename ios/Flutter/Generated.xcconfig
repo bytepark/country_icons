@@ -1,8 +1,14 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=/Users/sk/Documents/flutter
-FLUTTER_APPLICATION_PATH=/Users/sk/Documents/FlutterProjects/country_icons
+FLUTTER_ROOT=/Users/venillam1/Developer/flutter
+FLUTTER_APPLICATION_PATH=/Users/venillam1/Documents/country_icons
+COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
-FLUTTER_BUILD_MODE=debug
 FLUTTER_BUILD_DIR=build
-SYMROOT=${SOURCE_ROOT}/../build/ios
-FLUTTER_FRAMEWORK_DIR=/Users/sk/Documents/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=2.0.2
+FLUTTER_BUILD_NUMBER=2.0.2
+EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
+EXCLUDED_ARCHS[sdk=iphoneos*]=armv7
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
