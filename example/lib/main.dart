@@ -61,7 +61,7 @@ class _MyHomePageState extends State<MyHomePage> {
         children: <Widget>[
           Image.asset('icons/flags/png/de.png', package: 'country_icons'),
           Image.asset('icons/flags/png/gb.png', package: 'country_icons'),
-          Image.asset('icons/flags/png/fr.png', package: 'country_icons'),
+          Image.asset('icons/flags/png/sct.png', package: 'country_icons'),
           Image.asset('icons/flags/png/es.png', package: 'country_icons'),
           Image.asset('icons/flags/png/it.png', package: 'country_icons'),
           Image.asset('icons/flags/png/wv.png', package: 'country_icons'),
@@ -70,12 +70,12 @@ class _MyHomePageState extends State<MyHomePage> {
           Image.asset('icons/flags/png/2.5x/fr.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/es.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/it.png', package: 'country_icons'),
-          Image.asset('icons/flags/png/2.5x/eu.png', package: 'country_icons'),
+          Image.asset('icons/flags/png/2.5x/sct.png', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/de.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/gb.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/fr.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/es.svg', package: 'country_icons'),
-          SvgPicture.asset('icons/flags/svg/it.svg', package: 'country_icons'),
+          SvgPicture.asset('icons/flags/svg/wv.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/eu.svg', package: 'country_icons'),
         ],
       ), // This trailing comma makes auto-formatting nicer for build methods.
