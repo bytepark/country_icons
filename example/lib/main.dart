@@ -70,7 +70,7 @@ class _MyHomePageState extends State<MyHomePage> {
           Image.asset('icons/flags/png/2.5x/fr.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/es.png', package: 'country_icons'),
           Image.asset('icons/flags/png/2.5x/it.png', package: 'country_icons'),
-          Image.asset('icons/flags/png/2.5x/sct.png', package: 'country_icons'),
+          Image.asset('icons/flags/png/sct.png', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/de.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/gb.svg', package: 'country_icons'),
           SvgPicture.asset('icons/flags/svg/fr.svg', package: 'country_icons'),
