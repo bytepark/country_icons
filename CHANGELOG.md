@@ -1,3 +1,11 @@
+## [3.0.0] - 2024-01-25
+* Add the most recent version of flags from hjnilsson
+* Update dependencies
+* Includes PNG Flags with 1000px width
+* Add generic method to display SVGs
+* Update Example
+* Update README
+
 ## [2.0.2] - 2021-04-23
 * Fix README
 

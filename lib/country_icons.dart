@@ -2,6 +2,15 @@ library country_icons;
 
 import 'dart:async';
 import 'dart:io';
+import 'package:flutter/material.dart';
+import 'package:flutter_svg/flutter_svg.dart';
+
+class CountryIcons {
+  static Widget getSvgFlag(String country) {
+    String path = 'icons/flags/svg/' + country.toLowerCase() + '.svg';
+    return SvgPicture.asset(path, package: 'country_icons');
+  }
+}
 
 /// Simple scanner to output the path for all icons in console
 class Scanner {
